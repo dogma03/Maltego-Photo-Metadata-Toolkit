@@ -1,0 +1,5 @@
+maltego-transforms>=1.4.0
+maltego-transforms-std-entities>=1.0.0
+Pillow>=13.0.0,<14
+imagehash>=4.3.1,<5
+pypdf>=6.0.0,<7
