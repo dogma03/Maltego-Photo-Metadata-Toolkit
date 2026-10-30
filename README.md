@@ -761,3 +761,4 @@ PHOTO_PORT=3001 python project.py
     ├── inspect_photo.py        # проверка фото без Maltego
     └── inspect_file.py         # проверка любого файла без Maltego
 ```
+## Note: This is my first repo so pls dont be too harsh
